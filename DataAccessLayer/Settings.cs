@@ -13,9 +13,9 @@ namespace DataAccessLayer
         {
             get
             {
-              return "Server=.;Database=ZamaylOnlineExams;User Id=sa;Password=sa123456;";
+              return "Server=.;Database=CoursessDataExtratctor;User Id=sa;Password=sa123456;";
 
-               // return ConnectionStrings["ZamaylOnlineExamsConnectionString"].ConnectionString;
+               // return ConnectionStrings["CoursessDataExtratctor"].ConnectionString;
             }
         }
 
