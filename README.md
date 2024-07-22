@@ -28,7 +28,7 @@ The application utilizes HtmlAgilityPack for parsing HTML content and **ADO.NET*
   -  CourseID, CourseName, CourseNo, CourseDescription, CourseCode, CreditHours, TheoryHours, PracticalHours, PrerequisiteCourse, and MajorThatInsertedFrom.
 
 - **Database Backup**:
-  - **Backup File**: The database backup file containing stored and extracted course information is available.
+  - **Backup File**: The uploaded database backup file containing stored and extracted the first 10 courses information only.
 
 - **Screenshot for a table**:
 ![image](https://github.com/user-attachments/assets/6663acb9-e743-499f-af68-b9d1cfe505e8)
