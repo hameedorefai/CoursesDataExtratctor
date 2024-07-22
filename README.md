@@ -3,7 +3,7 @@
 
 ## Overview
 
-The Courses Data Extractor is a **.NET application** designed to scrape course information from HTML files and store it in an **SQL Server** database.
+This app is a **.NET application** designed to scrape course information from HTML files and store it in an **SQL Server** database.
 The application utilizes HtmlAgilityPack for parsing HTML content and **ADO.NET** for data access and database operations.
 
 ## Features
