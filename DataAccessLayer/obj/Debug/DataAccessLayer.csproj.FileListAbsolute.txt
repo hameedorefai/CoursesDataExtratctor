@@ -1,0 +1,8 @@
+D:\SeleconValley\CoursesInfoScrapping\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\SeleconValley\CoursesInfoScrapping\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

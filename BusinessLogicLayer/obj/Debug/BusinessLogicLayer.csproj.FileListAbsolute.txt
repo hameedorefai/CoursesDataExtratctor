@@ -1,0 +1,4 @@
+D:\SeleconValley\CoursesInfoScrapping\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\SeleconValley\CoursesInfoScrapping\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache

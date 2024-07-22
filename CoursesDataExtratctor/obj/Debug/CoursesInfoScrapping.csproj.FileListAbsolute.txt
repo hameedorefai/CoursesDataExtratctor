@@ -1,0 +1,17 @@
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\CoursesInfoScrapping\bin\Debug\CoursesInfoScrapping.exe.config
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\CoursesInfoScrapping\bin\Debug\CoursesInfoScrapping.exe
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\CoursesInfoScrapping\bin\Debug\CoursesInfoScrapping.pdb
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\CoursesInfoScrapping\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\CoursesInfoScrapping\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\CoursesInfoScrapping\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\CoursesInfoScrapping\obj\Debug\CoursesInfoScrapping.csproj.AssemblyReference.cache
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\CoursesInfoScrapping\obj\Debug\CoursesInfoScrapping.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\CoursesInfoScrapping\obj\Debug\CoursesInfoScrapping.csproj.CoreCompileInputs.cache
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\CoursesInfoScrapping\obj\Debug\CoursesInfoScrapping.csproj.CopyComplete
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\CoursesInfoScrapping\obj\Debug\CoursesInfoScrapping.exe
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\CoursesInfoScrapping\obj\Debug\CoursesInfoScrapping.pdb
+D:\SeleconValley\CoursesInfoScrapping\CoursesInfoScrapping\obj\Debug\CoursesInfoScrapping.csproj.AssemblyReference.cache
+D:\SeleconValley\CoursesInfoScrapping\CoursesInfoScrapping\obj\Debug\CoursesInfoScrapping.csproj.SuggestedBindingRedirects.cache
+D:\SeleconValley\CoursesInfoScrapping\CoursesInfoScrapping\obj\Debug\CoursesInfoScrapping.csproj.CoreCompileInputs.cache
+D:\SeleconValley\CoursesInfoScrapping\CoursesInfoScrapping\obj\Debug\CoursesInfoScrapping.exe
+D:\SeleconValley\CoursesInfoScrapping\CoursesInfoScrapping\obj\Debug\CoursesInfoScrapping.pdb

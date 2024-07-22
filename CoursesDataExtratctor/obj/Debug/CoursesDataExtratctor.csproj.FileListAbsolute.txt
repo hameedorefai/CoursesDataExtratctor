@@ -1,0 +1,8 @@
+D:\SeleconValley\CoursesInfoScrapping\CoursesInfoScrapping\obj\Debug\CoursesDataExtratctor.csproj.AssemblyReference.cache
+D:\SeleconValley\CoursesInfoScrapping\CoursesInfoScrapping\obj\Debug\CoursesDataExtratctor.csproj.SuggestedBindingRedirects.cache
+D:\SeleconValley\CoursesInfoScrapping\CoursesInfoScrapping\obj\Debug\CoursesDataExtratctor.csproj.CoreCompileInputs.cache
+D:\SeleconValley\CoursesInfoScrapping\CoursesInfoScrapping\obj\Debug\CoursesInfoScrapping.exe
+D:\SeleconValley\CoursesInfoScrapping\CoursesInfoScrapping\obj\Debug\CoursesInfoScrapping.pdb
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\CoursesInfoScrapping\obj\Debug\CoursesDataExtratctor.csproj.AssemblyReference.cache
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\CoursesInfoScrapping\obj\Debug\CoursesDataExtratctor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hamee\source\repos\CoursesInfoScrapping\CoursesInfoScrapping\obj\Debug\CoursesDataExtratctor.csproj.CoreCompileInputs.cache

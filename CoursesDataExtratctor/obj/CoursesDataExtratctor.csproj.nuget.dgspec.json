@@ -1,0 +1,95 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hamee\\source\\repos\\CoursesInfoScrapping\\CoursesInfoScrapping\\CoursesDataExtratctor.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hamee\\source\\repos\\CoursesInfoScrapping\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hamee\\source\\repos\\CoursesInfoScrapping\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "projectName": "BusinessLogicLayer",
+        "projectPath": "C:\\Users\\Hamee\\source\\repos\\CoursesInfoScrapping\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Hamee\\source\\repos\\CoursesInfoScrapping\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Hamee\\source\\repos\\CoursesInfoScrapping\\DataAccessLayer\\DataAccessLayer.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Hamee\\source\\repos\\CoursesInfoScrapping\\CoursesInfoScrapping\\CoursesDataExtratctor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hamee\\source\\repos\\CoursesInfoScrapping\\CoursesInfoScrapping\\CoursesDataExtratctor.csproj",
+        "projectName": "CoursesDataExtratctor",
+        "projectPath": "C:\\Users\\Hamee\\source\\repos\\CoursesInfoScrapping\\CoursesInfoScrapping\\CoursesDataExtratctor.csproj",
+        "packagesPath": "C:\\Users\\Hamee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hamee\\source\\repos\\CoursesInfoScrapping\\CoursesInfoScrapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Hamee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Hamee\\source\\repos\\CoursesInfoScrapping\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+                "projectPath": "C:\\Users\\Hamee\\source\\repos\\CoursesInfoScrapping\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.61, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Hamee\\source\\repos\\CoursesInfoScrapping\\DataAccessLayer\\DataAccessLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hamee\\source\\repos\\CoursesInfoScrapping\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectName": "DataAccessLayer",
+        "projectPath": "C:\\Users\\Hamee\\source\\repos\\CoursesInfoScrapping\\DataAccessLayer\\DataAccessLayer.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
