@@ -31,3 +31,5 @@ The application utilizes HtmlAgilityPack for parsing HTML content and **ADO.NET*
 - **Database Backup**:
   - **Backup File**: The database backup file containing stored and extracted course information is available.
 
+- **Screenshot for a table**:
+![image](https://github.com/user-attachments/assets/6663acb9-e743-499f-af68-b9d1cfe505e8)
