@@ -1,5 +1,28 @@
 
-# Materials Data Extractor
+# University Course Catalog Data Extractor
+
+> **LinkedIn Project Name:** University Course Catalog Data Extractor
+
+## LinkedIn Description
+
+Built a .NET console application that automates the extraction and storage of university course catalog data from publicly available HTML pages into a structured SQL Server database.
+
+The application scrapes HTML files containing Arabic academic course information, parses each course's details — including course name, code, description, credit hours (theory & practical), and prerequisites — and inserts the structured records into a relational database using ADO.NET.
+
+**Key highlights:**
+- Automated HTML scraping using HtmlAgilityPack across multiple faculty HTML files.
+- Regex-based parsing to extract Arabic-language fields (credit hours, prerequisites) from unstructured text.
+- Clean three-layer architecture: Presentation (Console), Business Logic, and Data Access layers.
+- Stored course records per academic major, enabling structured querying of the full course catalog.
+- Parameterized SQL queries to prevent SQL injection and ensure safe database insertion.
+
+**Tech Stack:** C# · .NET Framework · ADO.NET · SQL Server · HtmlAgilityPack · Regex
+
+**Duration:** July 2024 – October 2024
+
+**Skills:** C#, .NET Framework, ADO.NET, SQL Server, HtmlAgilityPack
+
+---
 
 ## Overview
 
